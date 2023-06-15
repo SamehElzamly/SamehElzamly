@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently training on **Back-end projects.**
 
-- 👨‍💻 All of my projects are available at [samehelzamly.netlify.app](samehelzamly.netlify.app)
+- 👨‍💻 All of my projects are available at [samehelzamly](https://samehelzamly.netlify.app/)
 
 - 📫 How to reach me **sameh231115@gmail.com**
 
