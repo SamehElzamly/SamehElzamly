@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sameh28101636" target="blank"><img src="https://img.shields.io/twitter/follow/sameh28101636?logo=twitter&style=for-the-badge" alt="sameh28101636" /></a> </p>
 
-- 🔭 I’m currently working on **EgyTour -website for booking trips in Sharm EL-Shikh.**
-
-- 🌱 I’m currently training on **Back-end projects.**
+- 🔭 I’m currently working as FullStack developer for IT-Blocks and Bo-Chat.**
 
 - 👨‍💻 All of my projects are available at [samehelzamly](https://samehelzamly.netlify.app/)
 
